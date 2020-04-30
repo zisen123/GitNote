@@ -17,11 +17,11 @@
 # Pub
 - index: https://pud.kaolay.com/user
 - invite: https://pud.life/aff/mFTm
-- v2ray: https://sub88.xyz/link/A0rP800DzGYI9tRQ?mu=2
-- Clash: https://sub88.xyz/link/A0rP800DzGYI9tRQ?mu=4
-- Quantumult: https://sub88.xyz/link/A0rP800DzGYI9tRQ?mu=7
-- Quantumult X: https://sub88.xyz/link/A0rP800DzGYI9tRQ?mu=5
-- Surge: https://sub88.xyz/link/A0rP800DzGYI9tRQ?mu=6
+- v2ray: https://sub88.xyz/link/ThwdDA3cIu3QmlDK?mu=2
+- Clash: https://sub88.xyz/link/ThwdDA3cIu3QmlDK?mu=4
+- Quantumult: https://sub88.xyz/link/ThwdDA3cIu3QmlDK?mu=7
+- Quantumult X: https://sub88.xyz/link/ThwdDA3cIu3QmlDK?mu=5
+- Surge: https://sub88.xyz/link/ThwdDA3cIu3QmlDK?mu=6
   
 # Shadowsocks
 - index: https://portal.shadowsocks.nl/clientarea.php
